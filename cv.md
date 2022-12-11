@@ -14,4 +14,14 @@ I work in a large company as a deputy administrative director. There is no exper
 ==========
     1. RUDN University (Economict)
     2. Business school SBER University together with the INSEAD (executive MBA)
-    3. Upper Intermediate level: B2    
+    3. Upper Intermediate level: B2
+    
+Code example from the website Codewars
+===========
+```
+{
+    {new Complex(4, 5), newVector3d(3, 4, 5)},
+    {new Complex(5, 6), newVector3d(4, 5, 6)},
+    {complex, vector3d}
+ }
+ ```
