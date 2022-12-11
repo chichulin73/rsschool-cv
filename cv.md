@@ -16,6 +16,18 @@ I work in a large company as a deputy administrative director. There is no exper
     2. Business school SBER University together with the INSEAD (executive MBA)
     3. Upper Intermediate level: B2
     
+**Key skills**
+=============
+    - Organizational skills
+    - Administrative management
+    - Teamwork
+    - Negotiating
+    - Working in a multitasking environment
+    - Working with a large amount of information
+    - Optimization of business processes
+    - Operational activities of the organization
+    - Project management
+    
 Code example from the website Codewars
 ===========
 ```
